@@ -82,11 +82,23 @@ This assignment asks you to go complete the Final Project for the [Intro to CS c
 
 ### Description
 
+this program for the microbit is a mood expression also configured with on why the mirobit feels the way it does with a facial expression displaying on the LED.  the function starts with a math.random giving you a random expression everytime you press the input a button.  once it has chosen which mood it is feeling it will state how they feel at first and then on what situation brought them to this mood.  button press b displays a screensaver that can play forever this would be a sleeping state for the microbit and once you want to wake the microbit back up i have a input for button press a+b that resets the microbit to the on start state and is ready to start expresing random moods again.
+
 #### Goal
-TODO
+eventually to make this program and microbit have a funtioning state of mind with a library full of different moods and how the certain moods fit with every day life and why these moods are correlated with the mood itself.
 
 #### Design process
-TODO
+i looked through all of the prokects for the microbit and javascript and all of the projects that stuck out to me is the ones that include python. for th future i want to implement python lbraries with the microbit and javascript combined to make the microbit more interactive and easier to manipulate to make the future design process better.
 
 #### JS Constructs & objects
-TODO
+booleans
+variables
+math.random
+let
+input
+basic
+else
+else if
+for( let
+functions
+forever loops
